@@ -25,3 +25,6 @@ This Excel project explores global video game sales data from Kaggle. It showcas
 | Other_Sales  | Sales in other regions (millions)               |
 | Global_Sales | Total global sales (millions)                   |
 
+---
+
+## 🧹 Data Cleaning
