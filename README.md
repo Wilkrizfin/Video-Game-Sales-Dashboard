@@ -57,9 +57,10 @@ Key insights derived using PivotTables and visual exploration:
 
 Created a dynamic Excel dashboard featuring:
 
-- Interactive slicers for Year, Platform, and Genre  
 - Column, bar, pie, and treemap charts  
 - Timeline visualization for year-over-year sales  
+
+![Dashboard](https://github.com/user-attachments/assets/08ebf64e-b7b5-4474-93c0-5c8555123d8d)
 
 ---
 
@@ -79,7 +80,7 @@ Created a dynamic Excel dashboard featuring:
 - Microsoft Excel  
 - Power Query  
 - PivotTables  
-- Data Cleaning (TRIM, IF, IFERROR)  
+- Data Cleaning 
 - Charting & Timeline
 
 ---
