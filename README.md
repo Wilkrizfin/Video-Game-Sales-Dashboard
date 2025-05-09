@@ -101,7 +101,7 @@ Created a dynamic Excel dashboard featuring:
 ## 👤 Author
 
 **Wilkrizfin Penaranda**  
-Aspiring Data Analyst | Excel & Data Visualization Enthusiast  
+Entry-Level Data Analyst | 9 yrs in Sales & BizDev | Google-Certified 
 [LinkedIn](https://www.linkedin.com/in/wilkrizfin-penaranda-90755197/)
 
 
