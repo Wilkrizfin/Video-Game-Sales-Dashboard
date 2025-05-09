@@ -4,10 +4,12 @@
 
 This Excel project explores global video game sales data from Kaggle. It showcases data cleaning, transformation, analysis, and interactive dashboard creation skills using a dataset of over 16,000 games across various platforms, genres, and regions.
 
+---
+
 ## 📂 Dataset
 
 - **Source**: [Kaggle: Global Video Game Sales](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales)
-- **Rows**: 16,598
+- **Rows**: 16,598  
 - **Columns**: 11
 
 ### Column Description:
@@ -27,86 +29,81 @@ This Excel project explores global video game sales data from Kaggle. It showcas
 
 ---
 
-## 🧹 Data Cleaning
+## 🧹 Data Cleaning & 🔁 Data Transformation
 
-- Created a table format.
-- Checked blank rows and duplicates.
-- “Year” column formatted to date format via Power Query.
-- Rows of the “Year” column with N/A values changed to blank.
-- Removed 2017 & 2020 as there is no significant data.
-- Ensured `Global_Sales` = sum of all regional sales.
-
----
-
-## 🔁 Data Transformation
-
-- Created `Sales_Per_Region_Percentage` columns
-- Added `Decade_Released` from the `Year` column
-- Aggregated data by `Platform`, `Genre`, and `Publisher`
+- Converted range to Excel table for structured referencing.
+- Checked and removed blank rows and duplicate entries.
+- Used Power Query to format the `Year` column as Date.
+- Replaced `N/A` values in the `Year` column with blank cells.
+- Removed rows for years 2017 and 2020 due to insignificant data.
+- Ensured `Global_Sales = NA + EU + JP + Other Sales` across all rows.
 
 ---
 
 ## 📊 Data Analysis
 
-Key insights:
-- Global sales trend by year
-- Sales Distribution by region
-- Sales by Genre
-- Best-selling video games
-- Platform Market share 
-- Top-selling publishers
+Key insights derived using PivotTables and visual exploration:
 
-
-Tools used:
-- Power Query
-- PivotTables
-- Conditional formatting
+- Global sales trend by year  
+- Sales distribution by region  
+- Sales performance by genre  
+- Top-selling video games  
+- Platform market share  
+- Leading publishers by sales  
 
 ---
 
 ## 📈 Dashboard
 
-Created a dynamic dashboard with:
-- Charts (column, bar, pie, treemap)
-- Timeline
+Created a dynamic Excel dashboard featuring:
 
-![Dashboard](https://github.com/user-attachments/assets/3d263af1-1779-4273-9e96-a67eb7cb8b4e)
+- Interactive slicers for Year, Platform, and Genre  
+- Column, bar, pie, and treemap charts  
+- Timeline visualization for year-over-year sales  
 
 ---
 
 ## 💡 Key Findings
 
-- 2008 had the highest record global sales.
-- The North America region contributes the largest share of game sales.
-- **Action** and **Sports** are the most popular genres worldwide.
-- Wii Sports is the best-selling video game.
-- Playstation 2 has the largest market share among the platform followed by Playstation 3, X360 and Wii.
-- Nintendo has the highest game sales among the publishers.
+- **Year 2008** recorded the highest global game sales.  
+- **North America** is the top-performing region in terms of revenue.  
+- **Action** and **Sports** dominate as the most popular genres globally.  
+- **Wii Sports** holds the title of the best-selling game.  
+- **PlayStation 2** leads in platform market share.  
+- **Nintendo** is the highest-selling publisher by total sales.
 
 ---
 
 ## 🛠 Tools Used
 
-- Microsoft Excel
-- Power Query
-- PivotTables
-- Charts and Timeline
-- Data Cleaning & Formulas
+- Microsoft Excel  
+- Power Query  
+- PivotTables  
+- Data Cleaning (TRIM, IF, IFERROR)  
+- Charting & Timeline
 
 ---
 
 ## 📎 Files
 
-- `Global_Video_Game_Sales_Dashboard.xlsx`: Final dashboard
-- `Charts_and_PivotTables.xlsx`: All analysis visuals
-- `Data_Cleaning_Steps.xlsx`: Documented cleaning process
-- `Data_Dictionary.txt`: Dataset column descriptions
+- [`Global_Video_Game_Sales_Project.xlsx`](./Global_Video_Game_Sales_Project.xlsx) – Single Excel workbook with the following sheets:
+  - `vgsales`: Original dataset  
+  - `working_sheet`: Documented cleaning and transformation steps  
+  - `analysis`: PivotTables and exploratory visualizations  
+  - `analysis2`: PivotTable for regional sales distribution  
+  - `dashboard`: Final interactive dashboard  
+
+- [Dataset Source (Kaggle)](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales)
 
 ---
 
 ## 👤 Author
 
-**[Wilkrizfin Penaranda]**  
+**Wilkrizfin Penaranda**  
 Aspiring Data Analyst | Excel & Data Visualization Enthusiast  
-[LinkedIn]( https://www.linkedin.com/in/wilkrizfin-penaranda-90755197/) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/wilkrizfin-penaranda-90755197/)
+
+
+
+
 
