@@ -87,7 +87,7 @@ Created a dynamic Excel dashboard featuring:
 
 ## 📎 Files
 
-- [`Global_Video_Game_Sales_Project.xlsx`](./Global_Video_Game_Sales_Project.xlsx) – Single Excel workbook with the following sheets:
+- [`Global_Video_Game_Sales_Project.xlsx`](./vgsales%20analysis.xlsx) – Single Excel workbook with the following sheets:
   - `vgsales`: Original dataset  
   - `working_sheet`: Documented cleaning and transformation steps  
   - `analysis`: PivotTables and exploratory visualizations  
