@@ -102,6 +102,7 @@ Created a dynamic Excel dashboard featuring:
 
 **Wilkrizfin Penaranda**  
 Entry-Level Data Analyst | 9 yrs in Sales & BizDev | Google-Certified 
+
 [LinkedIn](https://www.linkedin.com/in/wilkrizfin-penaranda-90755197/)
 
 
