@@ -106,4 +106,5 @@ Created a dynamic dashboard with:
 
 **[Wilkrizfin Penaranda]**  
 Aspiring Data Analyst | Excel & Data Visualization Enthusiast  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn]( https://www.linkedin.com/in/wilkrizfin-penaranda-90755197/) | [GitHub](#)
+
