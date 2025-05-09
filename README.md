@@ -70,6 +70,8 @@ Created a dynamic dashboard with:
 - Charts (column, bar, pie, treemap)
 - Timeline
 
+![Dashboard](https://github.com/user-attachments/assets/3d263af1-1779-4273-9e96-a67eb7cb8b4e)
+
 ---
 
 ## 💡 Key Findings
